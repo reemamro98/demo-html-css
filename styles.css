@@ -1,0 +1,56 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    overflow-x: hidden;
+    
+}
+
+.page {
+    width: 900px;
+    margin: 0 auto;
+   
+}
+
+.menu {
+
+    height: 200px;
+    background-color: aqua;
+}
+
+.sidebar{
+
+    height: 300px;
+   width: 200px;;
+    background-color: blue;
+    float: left;
+}
+
+.content {
+    padding: 20px;
+   background-color: teal;
+}
+
+.footer{
+
+    height: 250px;
+    background-color: violet;
+    clear: both;
+}
+
+.image{
+
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+
+.p{
+  margin-bottom: 20px;
+}
+
